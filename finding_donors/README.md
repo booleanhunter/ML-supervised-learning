@@ -2,6 +2,8 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
+## Here's the [review](https://review.udacity.com/#!/reviews/786016/shared) for my work in this project
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
